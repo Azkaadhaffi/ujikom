@@ -1,5 +1,5 @@
 #  php-native-crud
-Dasar CRUD PHP, tanpa otentikasi, tanpa desain CSS, hanya CRUD.
+Dasar CRUD PHP
 
 ##  Instalasi
 * Clone project ke direktori webserver ( **htdocs** atau **html** atau **public_html** )
